@@ -1,0 +1,72 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    border: none;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+.buy-now-button:hover{
+    background-color: aqua;
+    color: brown;
+    transition: 1s;
+}
+#container{
+    background-image: url("images/bg-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px 0;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.phone img{
+    width: 80%;
+}
+.phn-center{
+    text-align: center;
+}
+.part1{
+    border: none;
+    box-shadow: 5px 5px 10px whitesmoke;
+}
+.see-all{
+    color: blue;
+    font-size: 20px;
+}
+.card-body p{
+    color: gray;
+}
+.card-body button{
+    margin-top: 20px;
+}
+.phn-bg{
+    margin-bottom: 100px;
+}
+.laptop{
+    margin-bottom: 100px;
+}
+.pale-img img{
+    width: 100%;
+}
+.categori h2{
+    text-align: center;
+    padding-bottom: 50px;
+   
+}
+.cat1{
+    margin-top: 60px;
+   
+    
+}
+.beauty{
+   margin-bottom: 20px;
+}
+.categori h4{
+   margin-left: 30px;
+}
+footer h5{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 10px;
+}
